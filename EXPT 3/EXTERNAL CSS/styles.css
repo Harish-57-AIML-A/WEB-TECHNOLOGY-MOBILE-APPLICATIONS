@@ -1,1 +1,15 @@
-
+h1 {
+    color: rgb(39, 120, 201);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 8px #706a6a;;
+}
+h2{
+    color: rgb(148, 43, 213);
+    font-size: 46px;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:right ;
+    text-align: center;
+    text-shadow: 2px 2px 8px #706a6a;
+}
